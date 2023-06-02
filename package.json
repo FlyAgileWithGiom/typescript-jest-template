@@ -1,0 +1,20 @@
+{
+  "name": "typescript-jest-template",
+  "version": "1.0.0",
+  "description": "Simple starter template with jest+typescript enableed and configured",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Giom Duquesnay <guillaume.duquesnay@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.2",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "typescript": "^5.1.3"
+  }
+}
